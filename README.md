@@ -1,3 +1,4 @@
 # hello-world
-A simple hello-world project
+A simple hello-world project.
+
 I am a world class software engineer
